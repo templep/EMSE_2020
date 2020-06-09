@@ -7,6 +7,6 @@ The repo is composed of three folders named: data, scripts and results.
 Scripts and results are again divided as best as possible to correspond to research questions addressed in the paper.
 That is there are separated folders for each case studies (JHipster and MOTIV), for each research questions and for each technique that have been used.
 
-_Disclaimer_: some glu scripts may be missing which are about formatting results and moving files from one folder to another. Some paths may be wrong and should be checked.
+__Disclaimer__: some glu scripts may be missing which are about formatting results and moving files from one folder to another. Some paths may be wrong and should be checked.
 
 will be uploaded shortly
