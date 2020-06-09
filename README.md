@@ -9,4 +9,6 @@ That is there are separated folders for each case studies (JHipster and MOTIV), 
 
 __Disclaimer__: some glu scripts may be missing which are about formatting results and moving files from one folder to another. Some paths may be wrong and should be checked.
 
-will be uploaded shortly
+The two subfolders called _stats_ corresponds to scripts and t-test results that were performed to strengthen our result and conclusion. They are set apart from the RQ (directly) since they serve as evidences to show confidence in our results and conclusions.
+
+RQ1.4 is usually not directly present in the repository since it is just applying the same technique and script that the ones in RQ1.1 and RQ1.2 while changing the target class so we decided to merge them.
